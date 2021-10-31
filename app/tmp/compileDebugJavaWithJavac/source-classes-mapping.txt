@@ -1,0 +1,38 @@
+com/example/phonetek/AppleList.java
+ com.example.phonetek.AppleList
+ com.example.phonetek.AppleList$1
+com/example/phonetek/PhoneDetailActivity.java
+ com.example.phonetek.PhoneDetailActivity
+ com.example.phonetek.PhoneDetailActivity$1
+com/example/phonetek/RecyclerViewAdapter.java
+ com.example.phonetek.RecyclerViewAdapter
+ com.example.phonetek.RecyclerViewAdapter$1
+ com.example.phonetek.RecyclerViewAdapter$ViewHolder
+com/example/phonetek/ViewPagerAdapter.java
+ com.example.phonetek.ViewPagerAdapter
+com/example/phonetek/SearchBar.java
+ com.example.phonetek.SearchBar
+com/example/phonetek/MainActivity.java
+ com.example.phonetek.MainActivity
+com/example/phonetek/BuildConfig.java
+ com.example.phonetek.BuildConfig
+com/example/phonetek/PhoneProvider.java
+ com.example.phonetek.PhoneProvider
+ com.example.phonetek.PhoneProvider$1
+com/example/phonetek/SearchPhonesAdapter.java
+ com.example.phonetek.SearchPhonesAdapter
+com/example/phonetek/PhoneListAdapter.java
+ com.example.phonetek.PhoneListAdapter
+ com.example.phonetek.PhoneListAdapter$1
+ com.example.phonetek.PhoneListAdapter$ViewHolder
+com/example/phonetek/SearchList.java
+ com.example.phonetek.SearchList
+ com.example.phonetek.SearchList$1
+com/example/phonetek/HuaweiList.java
+ com.example.phonetek.HuaweiList
+ com.example.phonetek.HuaweiList$1
+com/example/phonetek/SamsungList.java
+ com.example.phonetek.SamsungList
+ com.example.phonetek.SamsungList$1
+com/example/phonetek/Phone.java
+ com.example.phonetek.Phone
